@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://stage.heromotocorp.com/content/experience-fragments/hero-aem-website/in/en/hero-site/header"
+    url: "https://neerajky1.github.io/byom-html"
     type: "markup"
     suffix: ".html"
