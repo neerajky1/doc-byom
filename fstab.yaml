@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://raw.githubusercontent.com/neerajky1/byom-html/main/index"
+    url: "https://raw.githubusercontent.com/neerajky1/byom-html/main/index.html"
     type: "markup"
     suffix: ".html"
