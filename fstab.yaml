@@ -1,7 +1,7 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1NdIu9UZdjdlP7zwtRcXr2OxaiPYhbJoe
 
-  /header:
-    url: "https://raw.githubusercontent.com/neerajky1/byom-html/main/index"
+  /index:
+    url: "https://raw.githubusercontent.com/neerajky1/byom-html/main/"
     type: "markup"
     suffix: ".html"
